@@ -1,4 +1,4 @@
-Software Engineer focused on building efficient systems, automation tools, desktop applications, embedded solutions, and high-performance software.
+Developer focused on building efficient systems, automation tools, desktop applications, embedded solutions, and high-performance software.
 
 Creator of MekaWeapons, a Minecraft mod with over 4 million downloads.
 
@@ -15,7 +15,7 @@ C • C++ • C# • Java • Python • Avalonia UI • .NET • ESP32
 - Performance Optimization
 - Reverse Engineering
 
-## Featured Projects
+## Projects
 
 ### MekaWeapons
 
@@ -37,9 +37,5 @@ ESP32-based Bluetooth HID device demonstrating embedded systems development, wir
 </p>
 
 ---
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/emanuel-costa1)
 
 > Performance is a feature.
