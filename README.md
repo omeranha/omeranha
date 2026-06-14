@@ -1,4 +1,4 @@
-Developer focused on building efficient systems, automation tools, desktop applications, embedded solutions, and high-performance software.
+Focused on building efficient systems, automation tools, desktop applications, embedded solutions, and high-performance software.
 
 Creator of MekaWeapons, a Minecraft mod with over 4 million downloads.
 
@@ -10,7 +10,7 @@ C • C++ • C# • Java • Python • Avalonia UI • .NET • ESP32
 
 - Back-end Development
 - Desktop Applications
-- Embedded Systems (ESP32)
+- Embedded Systems
 - Automation & Tooling
 - Performance Optimization
 - Reverse Engineering
