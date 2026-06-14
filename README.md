@@ -32,8 +32,7 @@ ESP32-based Bluetooth HID device demonstrating embedded systems development, wir
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omeranha&show_icons=true&theme=github_dark"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeranha&layout=compact&theme=github_dark"/>
+  <img height="160" src="./profile/top-langs.svg">
 </p>
 
 ---
